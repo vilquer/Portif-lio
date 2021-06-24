@@ -24,7 +24,7 @@
 ## Projetos:
 #### Python
 * [**Interface gráfica para consulta dos dados públicos da RFB**](https://bit.ly/2Y9mT8W)
-* [**HangMan -  Jogo da Forca**](https://bit.ly/34LRrBP)
+* [**HangMan -  Jogo da Forca**](https://bit.ly/3gYcN3p)
 #### PowerBI
 * [**Análise Titanic**](https://bit.ly/2zRtlJ8)
 
