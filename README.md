@@ -17,7 +17,7 @@
 
 **Links:**
 * [LinkedIn](https://bit.ly/3dvpXSP)
-* [Instagram](https://www.instagram.com/vilqueroliveira/)
+* [Instagram](https://www.instagram.com/vilquer.ds/)
 
 
 
