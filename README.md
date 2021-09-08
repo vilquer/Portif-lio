@@ -25,6 +25,7 @@
 #### Python
 * [**Interface gráfica para consulta dos dados públicos da RFB**](https://bit.ly/2Y9mT8W)
 * [**HangMan -  Jogo da Forca**](https://bit.ly/3gYcN3p)
+* [**Análise de dados com Python e Pandas**](https://bit.ly/3l61N66)
 #### PowerBI
 * [**Análise Titanic**](https://bit.ly/2zRtlJ8)
 
